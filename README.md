@@ -35,7 +35,8 @@ progtest-redesign/
 │   ├── src/              # Application source code
 │   └── package.json      # Dependencies and scripts
 └── docs/
-    └── CASE_STUDY.md     # Full detailed project report (in Czech)
+    └── CASE_STUDY.md     # Full detailed project report
+    └── presentation.pdf  # Final presentation (in Czech)
 ```
 
 ---
