@@ -6,7 +6,7 @@ A comprehensive redesign of the **ProgTest** academic evaluation platform used a
 > This project was created as a semester project for the course BI-TUR (Creation of User Interfaces) at FIT CTU.
 > The detailed Case Study and documentation are in **Czech**, as required by the course.
 
-## 🎯 Project Overview
+## Project Overview
 
 ProgTest is a powerful but notoriously dated system used by thousands of students for automatic code evaluation. This project aimed to perform an **evolutionary redesign**—preserving the core visual identity to respect users' mental models while surgically fixing critical cognitive barriers and UX flaws.
 
@@ -18,16 +18,16 @@ ProgTest is a powerful but notoriously dated system used by thousands of student
 
 ---
 
-## 👩‍💻 My Role & Contributions
+## My Role & Contributions
 
 In this team project, I was responsible for:
-- **Lead Frontend Developer:** Designed and implemented the final functional prototype in **React** (Dashboard, Course Page, Task Page, and Test Output).
+- **Frontend Developer:** Designed and implemented the final functional prototype in **React** (Dashboard, Course Page, Task Page, and Test Output).
 - **Researcher:** Analyzed and synthesized the results of the quantitative questionnaire (108 respondents).
 - **Moderator:** Led the Pluralistic Walkthrough usability testing session with students.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 progtest-redesign/
@@ -41,7 +41,7 @@ progtest-redesign/
 
 ---
 
-## 🚀 How to Run the Prototype
+## How to Run the Prototype
 
 To run the functional prototype locally, follow these steps:
 
@@ -57,11 +57,11 @@ To run the functional prototype locally, follow these steps:
    ```bash
    npm run dev
    ```
-4. Open your browser and navigate to the address shown in the terminal (usually `http://localhost:5173`).
+4. Open your browser and navigate to the address shown in the terminal.
 
 ---
 
-## 📄 Case Study Summary (TL;DR)
+## Case Study Summary (TL;DR)
 
 For a deep dive into the research, personas, and design decisions, please read the full [CASE_STUDY.md](docs/CASE_STUDY.md).
 
@@ -72,7 +72,7 @@ Here are the main problems we solved:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend:** React, TypeScript, Vite
 - **Styling:** Tailwind CSS, shadcn/ui
